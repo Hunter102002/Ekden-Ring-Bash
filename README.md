@@ -1,4 +1,4 @@
-# Ekden Ring Minigame
+# ELden Ring Minigame
 
 ## Objective
 
